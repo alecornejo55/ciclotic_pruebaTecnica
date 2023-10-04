@@ -58,3 +58,6 @@ a) El campo nombre no esté vacío y tenga al menos 3 caracteres.
 b) La edad sea un número entre 1 y 120.
 
 Si todo es válido, muestra un mensaje de éxito. Si hay errores, muestra los mensajes de error correspondientes.
+
+**Archivo de inicio:**
+index.php
